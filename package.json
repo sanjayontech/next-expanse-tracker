@@ -13,6 +13,7 @@
     "@clerk/themes": "^2.2.55",
     "@prisma/client": "^6.11.1",
     "@tailwindcss/postcss": "^4.1.12",
+    "@vercel/speed-insights": "^1.2.0",
     "chart.js": "^4.5.0",
     "chat.js": "^1.0.2",
     "next": "15.3.5",
